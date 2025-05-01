@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "SiteSentry",
+    "version": "1.0",
+    "description": "Time Tracking Extension",
+    "action": {
+      "default_icon": "image.png",
+      "default_title": "SiteSentry"
+    },
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+    "icons": {
+      "16": "image.png",
+      "32": "image.png",
+      "48": "image.png",
+      "128": "image.png"
+    }
+  }
