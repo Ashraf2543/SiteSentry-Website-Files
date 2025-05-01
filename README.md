@@ -59,10 +59,10 @@ This project is currently **unlicensed**. All rights reserved by the author.
 
 ## Contact
 
-- 📧 Email: [ashraf.jamal.652@gmail.com](#)
+- 📧 Email: [ashraf.jamal.652@gmail.com](https://gmail.com)
 - 🐦 Twitter: [@sitesentry](#)
 - 💻 GitHub: [@Ashraf2543](https://github.com/Ashraf2543)
 
 ---
 
-**Note**: This is a demo project. Some features listed (e.g., Smart Reminders, Firefox support) are under development.
+**Note**: This is a under development project. Some features listed (e.g., Smart Reminders, Firefox support) are under development.
