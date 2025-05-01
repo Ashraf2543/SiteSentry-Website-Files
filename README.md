@@ -60,7 +60,8 @@ This project is currently **unlicensed**. All rights reserved by the author.
 ## Contact
 
 - 📧 Email: [ashraf.jamal.652@gmail.com](https://gmail.com)
-- 🐦 Twitter: [@sitesentry](#)
+- ![image](https://github.com/user-attachments/assets/4906ff4d-a98c-4581-bfc6-9cdefb39cd7a)
+ Twitter: [@sitesentry](#)
 - 💻 GitHub: [@Ashraf2543](https://github.com/Ashraf2543)
 
 ---
